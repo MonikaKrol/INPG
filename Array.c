@@ -3,7 +3,7 @@
 int main () {
 
    int n[ 10 ]; /* n is an array of 10 integers */
-   int i,j;
+ LOL
  
    /* initialize elements of array n to 0 */         
    for ( i = 0; i < 10; i++ ) {
