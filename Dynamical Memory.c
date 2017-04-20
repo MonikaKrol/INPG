@@ -4,7 +4,8 @@
 
 int main() {
 
-   char name[10];
+	//Nizej zmienilam
+   char name[100];
    char *description;
 
    strcpy(name, "Zara Ali");
